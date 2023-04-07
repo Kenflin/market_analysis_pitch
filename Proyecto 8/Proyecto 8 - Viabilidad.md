@@ -19,7 +19,9 @@ A continuación el análisis DAFO del proyecto:
 |- Proyecto que nos gusta y con el que estamos ilusionados. | - Mecánica de movimiento sobre el agua es arriesgada y puede sentirse monótona.|
 |- Tenemos un muy buen equipo de Arte| - Primer proyecto en 3D con Unity |
 |- Programadores con experiencia en diferentes géneros de videojuegos. | - Peligro de que si se empiezan a fallar en los sprint no se llegue a fecha con el producto deseado.
-| <center> **Amenazas** |<center> **Oportunidades**  |
+
+|  Amenazas | Oportunidades  |
+|--|--|
 |- Nos pueden ver como primerizos que no vamos a saber gestionar un proyecto como este y habrá gente que dudará a la hora de dar su dinero. |- El encanto por los juegos Indies vs los AAA  |
 |-|- Facilidades en la difusión gracias al instituto y a los posibles medios de comunicación locales.|
 
@@ -38,14 +40,14 @@ Por ello la estimación de costes de recursos y producción son:
 
 | | Semana 1  |  Semana 2  |Semana 3  |  Semana 4  |Semana 5  |  Semana 6  |Semana 7  |  Semana 8  |
 |--|--|--|--|--|--|--|--|--|
-| **Producción** | Supervisión del Proyecto y Generación de Tareas para el siguiente Sprint 1x 14€ x 40h = 560€|  |  |  |  |  |  |
-| **Diseño** | Creación del GDD (Propuesta de Mecánicas,Estilos...) - 2x 14€ x 40h = 1.120€|  |  |  |  |  |  |
-| **Programación**| Se podrían considerar como apoyo a tareas actuales. |  |  |  |  |  |  |
-| **Arte**|Concept Art e ideas Iniciales del proyecto - 1x 14€ x 40h = 560€|  |  |  |  |  |  |
-| **Marketing**| Estudio de Marketing sobre las ideas planteadas - 1x 14€ x 40h = 560€|  |  |  |  |  |  |
-| **Publicación**| NADA |  |  |  |  |  |  |
-| **QA y Testing** | NADA |  |  |  |  |  |  |
-| **Total Semanal**| 2.800€|  |  |  |  |  |  |
+| **Producción** | Supervisión del Proyecto y Generación de Tareas para el Sprint del PMV 1x 14€ x 40h = 560€| Supervisión del Proyecto y Generación de Tareas para el siguiente Sprint según necesidades del proyecto 1x 14€ x 40h = 560€ |  |  |  |  |  ||
+| **Diseño** | Creación del GDD (Propuesta de Mecánicas,Estilos...) - 2x 14€ x 40h = 1.120€|  Ultimas adaptaciones del GDD e inicio del desarrollo del PMV - 2x 14€ x 40h = 1.120€ |  |  |  |  |  ||
+| **Programación**| Se podrían considerar como apoyo a tareas actuales. | Inicio del desarrollo del PMV - 2x 14€ x 40h = 1.120€ |  |  |  |  |  ||
+| **Arte**|Concept Art e ideas Iniciales del proyecto - 1x 14€ x 40h = 560€| Creación del personaje principal y el escenario para el PMV - 1x 14€ x 40h = 560€|  |  |  |  |  ||
+| **Marketing**| Estudio de Marketing sobre las ideas planteadas - 1x 14€ x 40h = 560€| Marketing en RRSS sobre el proyecto con el concept art generado la primera semana. Sneak peak sobre quienes son los desarrolladores - 1x 14€ x 40h = 560€ |  |  |  |  |  ||
+| **Publicación**| NADA | NADA |  |  |  |  |  ||
+| **QA y Testing** | NADA | NADA |  |  |  |  |  ||
+| **Total Semanal**| 2.800€| 3.920€ |  |  |  |  |  ||
 
 El **QA** y **Testing** se realizará por parte del equipo de Producción y Marketing para que tengan una visión de lo que es el producto en desarrollo y la última semana se le dará acceso a ciertos usuarios que apoyen el desarrollo mediante la campaña de KickStarter. 
 
