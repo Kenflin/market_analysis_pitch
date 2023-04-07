@@ -24,6 +24,30 @@ A continuación el análisis DAFO del proyecto:
 |-|- Facilidades en la difusión gracias al instituto y a los posibles medios de comunicación locales.|
 
 ### Una tabla con la estimación de los recursos necesarios y costes de la producción (en función del tiempo).
+El equipo se distribuye en:
+2 Productores ( Producción, Marketing)
+2 Diseñadores
+1 Artista
+2 Programadores
+
+Dichos roles pueden ser modificados debido a la necesidad del sprint ya que los productores también realizaran tareas de Artista y Programación).
+
+El sueldo de dichos empleados será de **14€** la hora con un horario de **40h** semanales , las cuales serán flexibles durante los **7 días** del sprint. 
+
+Por ello la estimación de costes de recursos y producción son:
+
+| | Semana 1  |  Semana 2  |Semana 3  |  Semana 4  |Semana 5  |  Semana 6  |Semana 7  |  Semana 8  |
+|--|--|--|--|--|--|--|--|--|
+| **Producción** | Supervisión del Proyecto y Generación de Tareas para el siguiente Sprint 1x 14€ x 40h = 560€|  |  |  |  |  |  |
+| **Diseño** | Creación del GDD (Propuesta de Mecánicas,Estilos...) - 2x 14€ x 40h = 1.120€|  |  |  |  |  |  |
+| **Programación**| Se podrían considerar como apoyo a tareas actuales. |  |  |  |  |  |  |
+| **Arte**|Concept Art e ideas Iniciales del proyecto - 1x 14€ x 40h = 560€|  |  |  |  |  |  |
+| **Marketing**| Estudio de Marketing sobre las ideas planteadas - 1x 14€ x 40h = 560€|  |  |  |  |  |  |
+| **Publicación**| NADA |  |  |  |  |  |  |
+| **QA y Testing** | NADA |  |  |  |  |  |  |
+| **Total Semanal**| 2.800€|  |  |  |  |  |  |
+
+El **QA** y **Testing** se realizará por parte del equipo de Producción y Marketing para que tengan una visión de lo que es el producto en desarrollo y la última semana se le dará acceso a ciertos usuarios que apoyen el desarrollo mediante la campaña de KickStarter. 
 
 ### La viabilidad del proyecto en función de la estimación anterior.
 
