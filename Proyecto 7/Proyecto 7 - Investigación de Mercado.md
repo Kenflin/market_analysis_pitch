@@ -20,6 +20,9 @@ Mecánica de puzzles para completar las zonas y liberar peces.
 
 Un diálogo gracioso ,cercano y para todos los públicos para que te sea más fácil aprender sobre todo lo que te rodea.
 
+### En base a esa información, crea un buyer persona de tu videojuego.
+
+[Antonio Ruiz - Buyer Persona ](https://github.com/Kenflin/market_analysis_pitch/blob/main/Proyecto%207/Carlos%20Antonio%20Ru%C3%ADz.pdf)
 ## ¿Cómo puedes lograr que potenciales compradores de tu videojuego conozcan de su existencia?
 
 ### ¿Qué acciones de comunicación harías para posicionarte en esos segmentos de mercado?
