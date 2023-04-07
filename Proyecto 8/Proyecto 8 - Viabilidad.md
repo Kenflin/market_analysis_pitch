@@ -36,18 +36,20 @@ Dichos roles pueden ser modificados debido a la necesidad del sprint ya que los 
 
 El sueldo de dichos empleados será de **14€** la hora con un horario de **40h** semanales , las cuales serán flexibles durante los **7 días** del sprint. 
 
+El equipo necesario para la generación del proyecto será aportado por los empleados y el software utilizado será de licencia gratuita.
+
 Por ello la estimación de costes de recursos y producción son:
 
-| | Semana 1  |  Semana 2  |Semana 3  |  Semana 4  |Semana 5  |  Semana 6  |Semana 7  |  Semana 8  |
-|--|--|--|--|--|--|--|--|--|
-| **Producción** | Supervisión del Proyecto y Generación de Tareas para el Sprint del PMV 1x 14€ x 40h = 560€| Supervisión del Proyecto y Generación de Tareas para el siguiente Sprint según necesidades del proyecto 1x 14€ x 40h = 560€ |  |  |  |  |  ||
-| **Diseño** | Creación del GDD (Propuesta de Mecánicas,Estilos...) - 2x 14€ x 40h = 1.120€|  Ultimas adaptaciones del GDD e inicio del desarrollo del PMV - 2x 14€ x 40h = 1.120€ |  |  |  |  |  ||
-| **Programación**| Se podrían considerar como apoyo a tareas actuales. | Inicio del desarrollo del PMV - 2x 14€ x 40h = 1.120€ |  |  |  |  |  ||
-| **Arte**|Concept Art e ideas Iniciales del proyecto - 1x 14€ x 40h = 560€| Creación del personaje principal y el escenario para el PMV - 1x 14€ x 40h = 560€|  |  |  |  |  ||
-| **Marketing**| Estudio de Marketing sobre las ideas planteadas - 1x 14€ x 40h = 560€| Marketing en RRSS sobre el proyecto con el concept art generado la primera semana. Sneak peak sobre quienes son los desarrolladores - 1x 14€ x 40h = 560€ |  |  |  |  |  ||
-| **Publicación**| NADA | NADA |  |  |  |  |  ||
-| **QA y Testing** | NADA | NADA |  |  |  |  |  ||
-| **Total Semanal**| 2.800€| 3.920€ |  |  |  |  |  ||
+| | Semana 1  |  Semana 2  |Semana 3  |  Semana 4  |Semana 5  |  Semana 6  |Semana 7  |  Semana 8  | Gastos |
+|--|--|--|--|--|--|--|--|--|--|
+| **Producción** | Supervisión del Proyecto y Generación de Tareas para el Sprint del PMV 1x 14€ x 40h = 560€| Supervisión del Proyecto y Generación de Tareas para el siguiente Sprint según necesidades del proyecto 1x 14€ x 40h = 560€ | Supervisión del Proyecto y Generación de Tareas para el siguiente Sprint según necesidades del proyecto 1x 14€ x 40h = 560€ | Supervisión del Proyecto y Generación de Tareas para el siguiente Sprint según necesidades del proyecto 1x 14€ x 40h = 560€ | Supervisión del Proyecto y Generación de Tareas para el siguiente Sprint según necesidades del proyecto 1x 14€ x 40h = 560€ |Supervisión del Proyecto y Generación de Tareas para el siguiente Sprint según necesidades del proyecto 1x 14€ x 40h = 560€  | Supervisión del Proyecto y Generación de Tareas para el siguiente Sprint según necesidades del proyecto 1x 14€ x 40h = 560€ |Supervisión del Proyecto y Generación de Tareas para el siguiente Sprint según necesidades del proyecto 1x 14€ x 40h = 560€|4.480€|
+| **Diseño** | Creación del GDD (Propuesta de Mecánicas,Estilos...) - 2x 14€ x 40h = 1.120€|  Ultimas adaptaciones del GDD e inicio del desarrollo del PMV - 2x 14€ x 40h = 1.120€ | Diseño del Escenario de Construcción y Mapa de viaje - 2x 14€ x 40h = 1.120€ | Diseño del Escenario 1 - 2x 14€ x 40h = 1.120€ |  |  |  ||
+| **Programación**| Se podrían considerar como apoyo a tareas actuales. | Inicio del desarrollo del PMV - 2x 14€ x 40h = 1.120€ | Desarrollo de construcción y viaje desde el mapa - 2x 14€ x 40h = 1.120€ | Desarrollo del sistema de Dialogo y Conceptos principales del Menú - 2x 14€ x 40h = 1.120€ |  |  |  ||
+| **Arte**|Concept Art e ideas Iniciales del proyecto - 1x 14€ x 40h = 560€| Creación del personaje principal y el escenario para el PMV - 1x 14€ x 40h = 560€| Creación del personaje principal en vista 3ª Persona, Mapa de viaje y Escenario de Construcción - 2x 14€ x 40h = 1.120€| Creación de elementos del Escenario 1 - 1x 14€ x 40h = 560€ |  |  |  ||
+| **Marketing**| Estudio de Marketing sobre las ideas planteadas - 1x 14€ x 40h = 560€| Marketing en RRSS sobre el proyecto con el concept art generado la primera semana. Sneak peak sobre quienes son los desarrolladores - 1x 14€ x 40h = 560€ | NADA |Publicación de Videos e Imagenes por RRSS sobre el PVM y pequeñas noticias sobre las fechas y maneras de apoyar el proyecto - 1x 14€ x 40h = 560€ |  |  |  ||
+| **Publicación**| NADA | NADA | NADA | NADA |  |  |  ||
+| **QA y Testing** | NADA | NADA | NADA | NADA |  |  |  ||
+| **Total Semanal**| 2.800€| 3.920€ | 3.920€ | 3.920€ |  |  |  ||
 
 El **QA** y **Testing** se realizará por parte del equipo de Producción y Marketing para que tengan una visión de lo que es el producto en desarrollo y la última semana se le dará acceso a ciertos usuarios que apoyen el desarrollo mediante la campaña de KickStarter. 
 
