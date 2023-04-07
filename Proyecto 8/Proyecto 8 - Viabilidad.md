@@ -54,7 +54,46 @@ Por ello la estimación de costes de recursos y producción son:
 El **QA** y **Testing** se realizará por parte del equipo de Producción y Marketing para que tengan una visión de lo que es el producto en desarrollo y la última semana se le dará acceso a ciertos usuarios que apoyen el desarrollo mediante la campaña de KickStarter. 
 
 ### La viabilidad del proyecto en función de la estimación anterior.
+#### - Ingresos esperados.
+- Precio del Juego en Plataformas: 20€ x 3000 ventas esperadas en Itch.io y Steam.
+- Plataforma Kickstarter con diferentes niveles de apoyo:
+	- 1000x- Juego Versión Digital + Concept Art Digital del Juego y Banda Sonora Digital - 40€
+	- 100x - Juego Versión Digital + Concept Art Digital del Juego y Banda Sonora Digital + Contacto directo con los desarrolladores del juego para hablar sobre su futuro - 60€
+	- 10x - Juego Versión Digital + Concept Art Digital del Juego y Banda Sonora Digital + Contacto directo con los desarrolladores del juego para hablar sobre su futuro + NPC con tu nombre y dialogo en la cooperativa - 150€
+	- 1x - Juego Versión Digital + Concept Art Digital del Juego y Banda Sonora Digital + Contacto directo con los desarrolladores del juego para hablar sobre su futuro + NPC con tu nombre y dialogo en la cooperativa + Estatua Pequeña única del personaje principal - 250€
 
+El Total por la venta completa esperada sería de **60.000€** por parte de las plataformas de Steam e Itch.io(dependiendo de cual , los ingresos pueden reducirse a un 70%  y no un 100%) y de **47.750€** mediante la campaña de Kickstarter . Esto haría un total de **107.750€** en ingresos posteriores al lanzamiento del videojuego, aunque se podría recibir parte de los ingresos poco a poco gracias a la campaña de Kickstarter y otras financiaciones que se pueden tener en cuenta que se comentarán más adelante.
+
+#### - Gastos esperados.
+
+ Se espera que el gasto del desarrollo del videojuego sea de **30.340€** en los dos meses. El coste podría modificarse si se tuviesen que realizar horas extras o posponer el lanzamiento del videojuego para evitar el crunch. En vista de la tabla anterior, si se necesitasen varias semanas mas de desarrollo el coste podría aumentar hasta los **38.180**.
+ 
 ### Cómo se va a mantener la calidad del proyecto.
 
+La calidad en el producto estará garantizada por las pruebas regresivas que se realizarán a partir de la semana 3 con el PMV ya generado y a partir de la semana 6 con las pruebas regresivas que se realizarán y el testing por parte del equipo de producción. Además del feedback que recibiremos de los interesados en  el juego mediante las publicaciones de videos e imagenes del desarrollo y el testeo por parte de los elegidos en la última semana.
+
+Además como ya se comentó en el punto anterior, el crunch no es una opción en este desarrollo y los tiempos están bien calculados para que el juego esté cuidado en todos sus aspectos.
+
 ### Por último, investiga cuáles son los costes necesarios para la publicación del videojuego en las plataformas Itch.io y Steam e indica algunas ideas para poder conseguir la financiación.
+
+Por cada juego que se quiera publicar en Steam se deben pagar 100€ . Este dinero se reembolsará una vez que se alcancen los 1000€ en ventas con el videojuego (incluido el precio del juego y/o en DLCs) y se podrá recibir en dinero o en crédito de la tienda.
+
+Además , hay que rellenar los [trámites digitales](https://partner.steamgames.com/steamdirect) que te piden. Estos trámites consisten en completar la documentación con los datos bancarios y fiscales, verificar la identidad y la información sobre los impuestos.
+
+Después tienes que preparar la pagina de tu tienda y cargar las compilaciones del juego. Hay un breve proceso de revisión en el que ejecutan tu juego, examinan tu página de la tienda y comprueban que se publique y funcione según lo esperado y sin causar ningún daño. Este proceso suele durar de 1 a 5 días.
+
+Hay algunos plazos adicionales que se deben cumplir antes de poder lanzar el juego en Steam:
+
+ - Hay un período de espera de 30 días entre el momento en que pagas la tarifa de la aplicación y el momento en que pueden lanzar tu juego. Tiempo que utilizan para realizar comprobaciones.
+
+  - Tendrás que preparar tu página de la tienda y colocar una página visible públicamente de ‘próximamente’ durante al menos dos semanas. Esto te ayudará a reunir una audiencia de clientes interesados que pueden añadir tu juego a su lista de deseos o participar en discusiones.
+
+
+Para el caso de Itch.io no tiene coste ninguno y puedes crear también tu página del juego sin problemas y elegir cual es el precio de tu juego. 
+
+
+#### Financiación
+
+Como ya se nombró anteriormente, una de las ideas de financiación es mediante Kickstarter, creando un sistema de niveles de apoyo para poder hacer que el proyecto sea rentable mientras de desarrolla.
+
+Otra idea es intentar conseguir financiación a través del gobierno como con [Enisa](https://www.enisa.es/) y el plan ['España, Hub Audiovisual de Europa'](https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2021/240321-hub-audiovisual.aspx) el cual dota entre 25.000 y 1,5 millones  de euros . Basta que los proyectos empresariales sean viables técnica y económicamente, así como que tengan un modelo de negocio innovador, novedoso o con claras ventajas competitivas además de que tengan su domicilio social en España .
